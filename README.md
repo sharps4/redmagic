@@ -1,5 +1,11 @@
 # CHANGELOGS
 
+**V1.1.3:**
+
+-Ajout de la "Privacy Polity" uniquement en anglais
+
+-Ajout des "Terms and Condition" uniquement en anglais
+
 **V1.1.2:**
 
 -Ajout du français pour la popup cookie
