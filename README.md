@@ -24,3 +24,7 @@ Si vous voulez l'utiliser dans un but commercial merci de me contacter.
 Vous pouvez tester le site à cette adresse: https://sharps4.github.io/
 
 Cette version ne contient pas encore toutes les pages, merci de bien vouloir attendre les futures mises à jours.
+
+# Historique du projet
+
+Le site est vient initialement d'un de mes autres projets Polaris. Ce projet n'a pas disparu, il est juste devenu RedMagic.
