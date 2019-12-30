@@ -159,9 +159,9 @@ nav ul li a:hover {
 footer {
   text-align: bottom;
   position: fixed;
-  left: 660px;
+  left: 580px;
   bottom: 0px;
-  height: 30px;
+  height: 50px;
   width: 100%;
   font-size: 15px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
