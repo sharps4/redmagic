@@ -4,7 +4,7 @@
 
 -Ajout de la "Privacy Polity" uniquement en anglais
 
--Ajout des "Terms and Condition" uniquement en anglais
+-Ajout des "Terms and Conditions" uniquement en anglais
 
 **V1.1.2:**
 
