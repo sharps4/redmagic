@@ -1,5 +1,9 @@
 # CHANGELOGS
 
+**V1.1.2:**
+
+-Ajout du français pour la popup cookie
+
 **V1.1.1:**
 
 -Ajout de la barre du popup cookie
