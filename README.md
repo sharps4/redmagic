@@ -2,7 +2,7 @@
 
 **V1.1:**
 
--Ajouts de la page d'achat
+-Ajouts de la page d'achat (français, anglais)
 
 -Correction de bugs mineurs
 
