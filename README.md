@@ -1,6 +1,6 @@
 # CHANGELOGS
 
-**V1.1:** *AJOUTS PROCHAINS*
+**V1.1:**
 
 -Ajouts de la page d'achat
 
