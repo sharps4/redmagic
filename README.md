@@ -1,5 +1,12 @@
 # CHANGELOGS
 
+*V1.1:* **AJOUTS PROCHAINS**
+
+-Ajouts des différentes pages FR
+
+-Correction de bugs mineurs
+
+
 *V1:*
 
 -Ajout d'un bouton pour changer la langue du site            
