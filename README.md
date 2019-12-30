@@ -1,6 +1,4 @@
 # redmagic
-|RedMagic Project|
-
 CHANGELOGS:
 
 V1:
