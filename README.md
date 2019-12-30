@@ -1,5 +1,11 @@
 # CHANGELOGS
 
+**V1.1.1:**
+
+-Ajout de la barre du popup cookie
+
+-Création de la "Cookie Policy" uniquement en anglais
+
 **V1.1:**
 
 -Ajouts de la page d'achat (français, anglais)
