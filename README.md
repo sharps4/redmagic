@@ -1,0 +1,2 @@
+# redmagic
+RedMagic Project
