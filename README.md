@@ -1,4 +1,3 @@
-# redmagic
 CHANGELOGS:
 
 V1:
