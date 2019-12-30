@@ -22,3 +22,5 @@ Si vous voulez l'utiliser dans un but commercial merci de me contacter.
 # Test du site
 
 Vous pouvez tester le site à cette adresse: https://sharps4.github.io/
+
+Cette version ne contient pas encore toutes les pages, merci de bien vouloir attendre les futures mises à jours.
