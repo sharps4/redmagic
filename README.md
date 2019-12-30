@@ -2,7 +2,7 @@
 
 **V1.1:** *AJOUTS PROCHAINS*
 
--Ajouts des différentes pages FR (acheter)
+-Ajouts de la page d'achat
 
 -Correction de bugs mineurs
 
