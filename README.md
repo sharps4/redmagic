@@ -2,7 +2,7 @@
 
 **V1.1:** *AJOUTS PROCHAINS*
 
--Ajouts des différentes pages FR
+-Ajouts des différentes pages FR (a propos, contact)
 
 -Correction de bugs mineurs
 
