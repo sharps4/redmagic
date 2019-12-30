@@ -27,4 +27,4 @@ Cette version ne contient pas encore toutes les pages, merci de bien vouloir att
 
 # Historique du projet
 
-Le site est vient initialement d'un de mes autres projets Polaris. Ce projet n'a pas disparu, il est juste devenu RedMagic.
+Le site vient initialement d'un de mes autres projets Polaris dont le but est de créer une plateforme d'achat de site web conçu par les développeurs du projet tout cela à des prix attractifs. Ce projet n'a pas disparu, il est juste devenu RedMagic.
