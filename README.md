@@ -1,6 +1,6 @@
 # CHANGELOGS
 
-**V1.2:**
+**V1.2:** (pas encore présent dans le code source)
 
 -Ajout d'un sytème de payement de test
 
