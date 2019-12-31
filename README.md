@@ -35,6 +35,10 @@ Cette template est destinée à vous aidez dans la création de votre site mais 
 
 Si vous voulez l'utiliser dans un but commercial merci de me contacter.
 
+# Suivre le développement
+
+Vous pouvez suivre le développement du projet à cette adresse: https://trello.com/b/vU4YfRb2/redmagic
+
 # Test du site
 
 Vous pouvez tester le site à cette adresse: https://sharps4.github.io/
