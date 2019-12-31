@@ -1,5 +1,11 @@
 # CHANGELOGS
 
+**V1.2:**
+
+-Ajout d'un sytème de payement de test
+
+-Base de donnée terminée
+
 **V1.1.3:**
 
 -Ajout de la "Privacy Polity" uniquement en anglais
