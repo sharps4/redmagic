@@ -4,7 +4,7 @@
 
 -Refonte du système de payement (pas finit totalement)
 
-**V1.2:** (pas encore présent dans le code source)
+**V1.2:**
 
 -Ajout d'un sytème de payement de test
 
