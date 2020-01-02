@@ -1,5 +1,9 @@
 # CHANGELOGS
 
+**V1.3:**
+
+-Refonte du système de payement (pas finit totalement)
+
 **V1.2:** (pas encore présent dans le code source)
 
 -Ajout d'un sytème de payement de test
