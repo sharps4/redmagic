@@ -1,6 +1,6 @@
 # CHANGELOGS
 
-**V1.4**
+**V1.4:**
 
 -Ajout des pages: à propos et contact (uniquement en français)
 
