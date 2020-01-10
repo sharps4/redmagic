@@ -1,5 +1,9 @@
 # CHANGELOGS
 
+**V1.4**
+
+-Ajout des pages: à propos et contact (uniquement en français)
+
 **V1.3:**
 
 -Refonte du système de payement (pas finit totalement)
