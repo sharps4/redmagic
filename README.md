@@ -55,7 +55,7 @@ Vous pouvez suivre le développement du projet à cette adresse: https://trello.
 
 # Test du site
 
-Vous pouvez tester le site à cette adresse: https://sharps4.github.io/
+Vous pouvez tester le site à cette adresse: https://sharps4.github.io/RedMagic/
 
 Cette version ne contient pas encore toutes les pages, merci de bien vouloir attendre les futures mises à jours.
 
