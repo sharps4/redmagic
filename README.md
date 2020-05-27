@@ -55,10 +55,10 @@ Vous pouvez suivre le développement du projet à cette adresse: https://trello.
 
 # Test du site
 
-Vous pouvez tester le site à cette adresse: https://sharps4.github.io/RedMagic/
+Vous pouvez tester le site à cette adresse: https://sharps4.github.io/RedMagic/ (redisponible prochainement)
 
 Cette version ne contient pas encore toutes les pages, merci de bien vouloir attendre les futures mises à jours.
 
-# Historique du projet
+# But du projet
 
-Le site vient initialement d'un de mes autres projets Polaris dont le but est de créer une plateforme d'achat de site web, tout cela à des prix attractifs. Ce projet n'a pas disparu, il est juste devenu RedMagic.
+Le but est de créer une plateforme d'achat de site web, tout cela à des prix attractifs.
